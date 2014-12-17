@@ -8,9 +8,9 @@ Feel free to grab-up/fork the project and make it better!
 
 For more information visit:
 
-(german) => coming soon
+(german) => http://code-bude.net/2014/12/17/captain-herrmanos-mystery-box-ein-reverse-geocache/
 
-(english) => coming soon
+(english) => http://en.code-bude.net/2014/12/17/captain-herrmanos-mystery-box-a-reverse-geocache/
 
 
 
